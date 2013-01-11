@@ -1,0 +1,16 @@
+{
+  "name"          : "backbone-squirrel",
+  "description"   : "An on/off-line, relational store of nuts for BB.",
+  "keywords"      : ["Backbone", "relation", "nested", "model", "squirrels", "fish-are-friends-not-food"],
+  "repository"    : "git@github.com:jackquack/Backbone-Squirrel.git",
+  "author"        : "Marc Beaupre-Pham <https://github.com/jackquack>",
+  "contributors"  : "Your Name Here",
+  "dependencies"  : {
+    "underscore":   ">=1.4.3",
+    "backbone":     ">=0.9.9",
+    "idb-wrapper":  ">=0.3.0"
+  },
+  "lib"           : ".",
+  "main"          : "squirrel.js",
+  "version"       : "0.0.1"
+}
