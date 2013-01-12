@@ -3,7 +3,7 @@ Backbone-Squirrel
 
 An offline, relational store of nuts for BB. 
 
-Insprited by Backbone-Relational.
+Insprited by [Backbone-Relational](https://github.com/PaulUithol/Backbone-relational).
 
 Goals
 ======
